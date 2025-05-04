@@ -1,0 +1,117 @@
+ [
+    {
+      "Label": "Absentee List (EC-2)",
+      "MENUNAME": "During Exam",
+      "Description": "mark day wise attendance"
+    },
+    {
+      "Label": "Accommodation (Report)",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "screen"
+    },
+    {
+      "Label": "Add Functionaries",
+      "MENUNAME": "During Exam",
+      "Description": "Allocate staff for exam"
+    },
+    {
+      "Label": "Add Room",
+      "MENUNAME": "During Exam",
+      "Description": "Add room for Examination"
+    },
+    {
+      "Label": "Additional Allocation",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Additional Answer Book(s) (EC-5)",
+      "MENUNAME": "During Exam",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Allocation of Examinees",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    },
+    {
+      "Label": "Annexure-S (After Add Functionaries)",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    },
+    {
+      "Label": "Answer Book Requirement Summary",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    },
+    {
+      "Label": "Blank Answer Book Details",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    },
+    {
+      "Label": "ConveyanceVoucher",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Duty Allocation of Staff(Other than Invigilator)",
+      "MENUNAME": "During Exam",
+      "Description": "Screen"
+    },
+    {
+      "Label": "EC 11 (After Duty Allocation of Staff)",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    },
+    {
+      "Label": "EC-10 (Report)",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "EC-9, EC-10 (Report)",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "FillReplyPerforma",
+      "MENUNAME": "During Exam",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Final Settlement of Account Report",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    },
+    {
+      "Label": "Final Submission of Reimbursement",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Invigilator Allocation",
+      "MENUNAME": "During Exam",
+      "Description": "add invigilator with the help of invigilator screen"
+    },
+    {
+      "Label": "Reimbursement",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Reimbursement (Report)",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Reimbursement Report(s)",
+      "MENUNAME": "Expenditure Bill",
+      "Description": "Screen"
+    },
+    {
+      "Label": "Sanctioned Examination Functionaries",
+      "MENUNAME": "During Exam",
+      "Description": "Report"
+    }
+  ]
